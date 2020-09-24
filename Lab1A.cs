@@ -55,7 +55,7 @@ namespace Lab1A
             {
                 for (int i = 0; i < Input.Length; i++)
                 {
-                    if (i > startIndex && i <= endIndex)
+                    if (i >= startIndex && i <= endIndex)
                     {
                         Console.ForegroundColor = ConsoleColor.Blue;
                     }
