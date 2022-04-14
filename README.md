@@ -1,4 +1,4 @@
-# Find-the-number-within-i-string
+# Find-the-number-within-a-string
 
 A simple console application that takes a text string (string) as argument.  The text string is then searched through all sub-strings that are numbers beginning
 and ending with the same number, but starting / final digit, or any other character must have the same  number of digits.
